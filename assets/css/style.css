@@ -38,10 +38,10 @@ header nav ul li {
 }
 
 header nav ul li a {
-    padding-top: 15px;
-    margin: 0 40px;
+    padding-top: 10px;
+    margin: 0 20px;
     float: right;
-    font-size: 24px;
+    font-size: 22px;
     color: #ffffff;
     text-decoration: none;
 }
