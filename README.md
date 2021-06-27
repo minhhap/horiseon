@@ -9,7 +9,9 @@ The Horiseon HTML and CSS were re-written to improve assessibility and better op
 
 
 # Screenshot
-
+<div>
+    <img src="./assets/images/screenshot.png" width="400px"></img> 
+</div>
 
 # Link to deployed application: 
 https://minhhap.github.io/horiseon/
